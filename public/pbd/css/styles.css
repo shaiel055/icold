@@ -1,0 +1,63 @@
+.catvestimenta {
+    background: #05e3be;
+    color: #4a5075;
+    font-weight: bold;
+    padding: 15px;
+    border: 2px solid #4a5075;
+    border-radius: 6px;
+    text-align:center;
+    width: 90%;
+    margin: 20px;
+    display: inline-block;
+    
+    }
+    .cathogar {
+    background: #c2b7f2;
+    color: #4a5075;
+    font-weight: bold;
+    padding: 15px;
+    border: 2px solid #4a5075;
+    border-radius: 6px;
+    text-align:center;
+    width: 90%;
+    margin: 20px;
+    display: inline-block;
+    
+    }
+    .catpublicidad {
+    background: #C9F2B7;
+    color: #4a5075;
+    font-weight: bold;
+    padding: 15px;
+    border: 2px solid #4a5075;
+    border-radius: 6px;
+    text-align:center;
+    width: 90%;
+    margin: 20px;
+    display: inline-block;
+    }
+    
+    .soon 
+    {
+        background: #eff2b7;
+    color: #4a5075;
+    font-weight: bold;
+    padding: 15px;
+    border: 2px solid #4a5075;
+    border-radius: 6px;
+    text-align:center;
+    width: 97%;
+    margin: 20px; 
+    display: inline-block;
+    
+    }
+    /* colores para tabla */
+    .vestimenta {
+         font-weight: bold; padding: 15px; border-left:20px solid #05e3be;
+    }
+    .hogar {
+         font-weight: bold; padding: 15px; border-left:20px solid #c2b7f2;
+    }
+    .publicidad {
+        font-weight: bold; padding: 15px; border-left:20px solid #C9F2B7;
+    }
